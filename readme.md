@@ -28,3 +28,9 @@ There is an example file created to support your experience.
 ```bash
  docker-compose exec php bin/console speedracer:show-results tests/_data/race.log
 ```
+
+### Improvements
+- [ ] Do not use magic numbers 
+- [ ] Improve method names
+- [ ] Methods with multiple responsibility
+- [ ] Improve model/architecture 
